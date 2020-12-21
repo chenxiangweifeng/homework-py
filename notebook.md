@@ -22,6 +22,9 @@ Linux是非常有意思而且工作中必须要用到的！所以对于工作中
 
 ### 以后python的代码也可以一起分享到github上面去！
 
+## python2.7官方文档
+https://docs.python.org/zh-cn/2.7/library/index.html
+
 
 
 

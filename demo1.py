@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 import random
 import time
+import math
 print (time.timezone)
 r = random.randint
 print(r)
@@ -22,3 +23,5 @@ if age >= 18:
 else:
     print('your age is', age)
     print('teenager')
+print (time.time())
+print (math.pi)
