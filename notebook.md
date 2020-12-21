@@ -1,13 +1,14 @@
 ###
 这里的python程序都是以python2.7为基础的。
 
-### python
-第三方库地址：
+### python 第三方库地址：
+下载第三方python库： settings --> project interpreter
 目前国内pip 镜像源有：
+官方：https://pypi.python.org/simple
 清华: https://pypi.tuna.tsinghua.edu.cn/simple
 豆瓣: http://pypi.douban.com/simple/
-阿里: http://mirrors.aliyun.com/pypi/simple/
-官方：https://pypi.python.org/simple
+阿里云: http://mirrors.aliyun.com/pypi/simple/  
+中国科学技术大学 http://pypi.mirrors.ustc.edu.cn/simple
 
 #### 自动化运维工具  @date 2020-10-31 ansible
 
